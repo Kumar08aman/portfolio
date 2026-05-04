@@ -1,7 +1,8 @@
 function App() {
   return (
-    <div className="bg-black text-white min-h-screen px-6 py-10">
 
+    <div className="bg-black text-white min-h-screen px-6 py-10">
+      <h1>Aman Kumar 🚀</h1>
       {/* Hero */}
       <section className="max-w-5xl mx-auto text-center">
         <h1 className="text-5xl font-bold tracking-tight">
